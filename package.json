@@ -1,0 +1,12 @@
+{
+  "name": "simple-raw-http-server",
+  "version": "1.0.0",
+  "description": "A simple raw http server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Chau Giang <giangc@acm.org>",
+  "license": "MIT"
+}
