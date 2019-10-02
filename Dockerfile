@@ -8,6 +8,6 @@ WORKDIR /app
 
 COPY . .
 
-EXPOSE 6666
+EXPOSE 3000
 
 CMD ["node", "index.js"]

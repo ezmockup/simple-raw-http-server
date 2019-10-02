@@ -1,6 +1,6 @@
 {
   "name": "simple-raw-http-server",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "A simple raw http server",
   "main": "index.js",
   "scripts": {
